@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Prime Video - Home</title>
+    <title>Rudhra's Jenkings Demo - Home</title>
     <link rel="stylesheet" href="assets/css/prime.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="icon" type="image/x-icon" href="https://www.primevideo.com/favicon.ico">
@@ -19,7 +19,7 @@
             <div class="hero-content">
                 <h1>${featuredTitle}</h1>
                 <div class="meta-info">
-                    <span class="meta-badge">Amazon Prime change</span>
+                    <span class="meta-badge">Amazon Prime Video</span>
                     <span>${featuredYear}</span>
                     <span>${featuredRating}</span>
                     <span>${featuredGenre}</span>
