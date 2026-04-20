@@ -19,7 +19,7 @@
             <div class="hero-content">
                 <h1>${featuredTitle}</h1>
                 <div class="meta-info">
-                    <span class="meta-badge">Amazon Prime Video</span>
+                    <span class="meta-badge">Rudhra's Jenkins Demo</span>
                     <span>${featuredYear}</span>
                     <span>${featuredRating}</span>
                     <span>${featuredGenre}</span>
